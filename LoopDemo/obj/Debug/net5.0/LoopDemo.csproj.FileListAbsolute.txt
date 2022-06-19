@@ -1,0 +1,16 @@
+C:\Users\solan\source\repos\LoopDemo\LoopDemo\bin\Debug\net5.0\LoopDemo.exe
+C:\Users\solan\source\repos\LoopDemo\LoopDemo\bin\Debug\net5.0\LoopDemo.deps.json
+C:\Users\solan\source\repos\LoopDemo\LoopDemo\bin\Debug\net5.0\LoopDemo.runtimeconfig.json
+C:\Users\solan\source\repos\LoopDemo\LoopDemo\bin\Debug\net5.0\LoopDemo.runtimeconfig.dev.json
+C:\Users\solan\source\repos\LoopDemo\LoopDemo\bin\Debug\net5.0\LoopDemo.dll
+C:\Users\solan\source\repos\LoopDemo\LoopDemo\bin\Debug\net5.0\LoopDemo.pdb
+C:\Users\solan\source\repos\LoopDemo\LoopDemo\obj\Debug\net5.0\LoopDemo.csproj.AssemblyReference.cache
+C:\Users\solan\source\repos\LoopDemo\LoopDemo\obj\Debug\net5.0\LoopDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\source\repos\LoopDemo\LoopDemo\obj\Debug\net5.0\LoopDemo.AssemblyInfoInputs.cache
+C:\Users\solan\source\repos\LoopDemo\LoopDemo\obj\Debug\net5.0\LoopDemo.AssemblyInfo.cs
+C:\Users\solan\source\repos\LoopDemo\LoopDemo\obj\Debug\net5.0\LoopDemo.csproj.CoreCompileInputs.cache
+C:\Users\solan\source\repos\LoopDemo\LoopDemo\obj\Debug\net5.0\LoopDemo.dll
+C:\Users\solan\source\repos\LoopDemo\LoopDemo\obj\Debug\net5.0\refint\LoopDemo.dll
+C:\Users\solan\source\repos\LoopDemo\LoopDemo\obj\Debug\net5.0\LoopDemo.pdb
+C:\Users\solan\source\repos\LoopDemo\LoopDemo\obj\Debug\net5.0\LoopDemo.genruntimeconfig.cache
+C:\Users\solan\source\repos\LoopDemo\LoopDemo\obj\Debug\net5.0\ref\LoopDemo.dll

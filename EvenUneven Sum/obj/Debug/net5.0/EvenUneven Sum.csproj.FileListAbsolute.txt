@@ -1,0 +1,16 @@
+C:\Users\solan\source\repos\LoopDemo\EvenUneven Sum\bin\Debug\net5.0\EvenUneven Sum.exe
+C:\Users\solan\source\repos\LoopDemo\EvenUneven Sum\bin\Debug\net5.0\EvenUneven Sum.deps.json
+C:\Users\solan\source\repos\LoopDemo\EvenUneven Sum\bin\Debug\net5.0\EvenUneven Sum.runtimeconfig.json
+C:\Users\solan\source\repos\LoopDemo\EvenUneven Sum\bin\Debug\net5.0\EvenUneven Sum.runtimeconfig.dev.json
+C:\Users\solan\source\repos\LoopDemo\EvenUneven Sum\bin\Debug\net5.0\EvenUneven Sum.dll
+C:\Users\solan\source\repos\LoopDemo\EvenUneven Sum\bin\Debug\net5.0\EvenUneven Sum.pdb
+C:\Users\solan\source\repos\LoopDemo\EvenUneven Sum\obj\Debug\net5.0\EvenUneven Sum.csproj.AssemblyReference.cache
+C:\Users\solan\source\repos\LoopDemo\EvenUneven Sum\obj\Debug\net5.0\EvenUneven Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\source\repos\LoopDemo\EvenUneven Sum\obj\Debug\net5.0\EvenUneven Sum.AssemblyInfoInputs.cache
+C:\Users\solan\source\repos\LoopDemo\EvenUneven Sum\obj\Debug\net5.0\EvenUneven Sum.AssemblyInfo.cs
+C:\Users\solan\source\repos\LoopDemo\EvenUneven Sum\obj\Debug\net5.0\EvenUneven Sum.csproj.CoreCompileInputs.cache
+C:\Users\solan\source\repos\LoopDemo\EvenUneven Sum\obj\Debug\net5.0\EvenUneven Sum.dll
+C:\Users\solan\source\repos\LoopDemo\EvenUneven Sum\obj\Debug\net5.0\refint\EvenUneven Sum.dll
+C:\Users\solan\source\repos\LoopDemo\EvenUneven Sum\obj\Debug\net5.0\EvenUneven Sum.pdb
+C:\Users\solan\source\repos\LoopDemo\EvenUneven Sum\obj\Debug\net5.0\EvenUneven Sum.genruntimeconfig.cache
+C:\Users\solan\source\repos\LoopDemo\EvenUneven Sum\obj\Debug\net5.0\ref\EvenUneven Sum.dll

@@ -1,0 +1,16 @@
+C:\Users\solan\source\repos\LoopDemo\SumOfLeftAndRight\bin\Debug\net5.0\SumOfLeftAndRight.exe
+C:\Users\solan\source\repos\LoopDemo\SumOfLeftAndRight\bin\Debug\net5.0\SumOfLeftAndRight.deps.json
+C:\Users\solan\source\repos\LoopDemo\SumOfLeftAndRight\bin\Debug\net5.0\SumOfLeftAndRight.runtimeconfig.json
+C:\Users\solan\source\repos\LoopDemo\SumOfLeftAndRight\bin\Debug\net5.0\SumOfLeftAndRight.runtimeconfig.dev.json
+C:\Users\solan\source\repos\LoopDemo\SumOfLeftAndRight\bin\Debug\net5.0\SumOfLeftAndRight.dll
+C:\Users\solan\source\repos\LoopDemo\SumOfLeftAndRight\bin\Debug\net5.0\SumOfLeftAndRight.pdb
+C:\Users\solan\source\repos\LoopDemo\SumOfLeftAndRight\obj\Debug\net5.0\SumOfLeftAndRight.csproj.AssemblyReference.cache
+C:\Users\solan\source\repos\LoopDemo\SumOfLeftAndRight\obj\Debug\net5.0\SumOfLeftAndRight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\source\repos\LoopDemo\SumOfLeftAndRight\obj\Debug\net5.0\SumOfLeftAndRight.AssemblyInfoInputs.cache
+C:\Users\solan\source\repos\LoopDemo\SumOfLeftAndRight\obj\Debug\net5.0\SumOfLeftAndRight.AssemblyInfo.cs
+C:\Users\solan\source\repos\LoopDemo\SumOfLeftAndRight\obj\Debug\net5.0\SumOfLeftAndRight.csproj.CoreCompileInputs.cache
+C:\Users\solan\source\repos\LoopDemo\SumOfLeftAndRight\obj\Debug\net5.0\SumOfLeftAndRight.dll
+C:\Users\solan\source\repos\LoopDemo\SumOfLeftAndRight\obj\Debug\net5.0\refint\SumOfLeftAndRight.dll
+C:\Users\solan\source\repos\LoopDemo\SumOfLeftAndRight\obj\Debug\net5.0\SumOfLeftAndRight.pdb
+C:\Users\solan\source\repos\LoopDemo\SumOfLeftAndRight\obj\Debug\net5.0\SumOfLeftAndRight.genruntimeconfig.cache
+C:\Users\solan\source\repos\LoopDemo\SumOfLeftAndRight\obj\Debug\net5.0\ref\SumOfLeftAndRight.dll
